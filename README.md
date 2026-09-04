@@ -17,6 +17,9 @@ An AI-assisted fraud detection pipeline that helps analysts identify suspicious 
 - Airtable
 - Streamlit
 - Python
+- JavaScript
+- HTML
+- CSS
 - Groq
 - Hugging Face
 - Flowise
