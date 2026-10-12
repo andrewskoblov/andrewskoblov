@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Skoblov
 
-I'm an AI integration specialist focused on building practical automation systems that connect data, AI analysis, and user-facing dashboards. My work centers on turning business problems into working AI-assisted workflows using tools like n8n, Airtable, Streamlit, Groq, Hugging Face, and GitHub.
+Computer Science student focused on software development, AI integration, and financial technology. I build practical applications and automation systems that connect data, AI analysis, and user-facing dashboards. My experience includes developing AI-assisted workflows using Python, JavaScript, n8n, Airtable, Streamlit, Groq, and Hugging Face to solve real-world business problems.
 
 📫 [LinkedIn](https://www.linkedin.com/in/andrewskoblov/) · andrew.skoblov@jjay.cuny.edu
 
