@@ -2,7 +2,7 @@
 
 Computer Science student focused on software development, AI integration, and financial technology. I build practical applications and automation systems that connect data, AI analysis, and user-facing dashboards. My experience includes developing AI-assisted workflows using Python, JavaScript, n8n, Airtable, Streamlit, Groq, and Hugging Face to solve real-world business problems.
 
-📫 [LinkedIn](https://www.linkedin.com/in/andrewskoblov/) · andrew.skoblov@jjay.cuny.edu
+[LinkedIn](https://www.linkedin.com/in/andrewskoblov/) · andrew.skoblov@jjay.cuny.edu
 
 ## Featured Project
 **SentinelIQ — AI-Powered Financial Fraud Detection System**  
