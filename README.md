@@ -5,7 +5,7 @@ Computer Science student focused on software development, AI integration, and fi
 [LinkedIn](https://www.linkedin.com/in/andrewskoblov/) · andrew.skoblov@jjay.cuny.edu
 
 ## Featured Project
-**SentinelIQ — AI-Powered Financial Fraud Detection System**  
+**SentinelIQ - AI-Powered Financial Fraud Detection System**  
 An AI-assisted fraud detection pipeline that helps analysts identify suspicious transactions, review risk scores, and manage investigation cases through a dashboard.
 - My contribution focused on Case Management & Dashboard development.
 - I helped connect high-risk transaction outputs to analyst case records.
